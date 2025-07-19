@@ -88,5 +88,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 **Priti Singh**
 📫 [GitHub Profile](https://github.com/pritisingh-09)
-
-```
